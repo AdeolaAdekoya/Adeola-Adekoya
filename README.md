@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adeola Adeokoya</h1>
-<h3 align="center">I build and design human centered experiences for the web.</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Admos Hotel Website design & development](https://github.com/TundeAdekoya/admosHotelAndSuites-Frontend)
 
@@ -12,10 +12,6 @@
 - 💬 Ask me about **Frontend Development or Product Design**
 
 - 📫 How to reach me **adeolaadekoya11@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,5 +28,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adeolaadekoya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adeolaadekoya" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeolaadekoya&show_icons=true&locale=en&layout=compact" alt="adeolaadekoya" /></p>
