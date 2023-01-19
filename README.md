@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adeola Adeokoya</h1>
 <h3 align="center">I build and design human centered experiences for the web</h3>
 
-- 🔭 I’m currently working on [Admos Hotel Website design & development](https://github.com/TundeAdekoya/admosHotelAndSuites-Frontend)
+- 🔭 I’m currently working on [Admos Hotel Website design & development](https://www.behance.net/gallery/160910009/Admos-Hotel-UIUX-Design-and-Development-Casestudy)
 
 - 🌱 I’m currently learning **JavaScript algorithms and data structures**
 
